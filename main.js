@@ -9,5 +9,3 @@ function comparacionParidad(number) {
     }
 }
 
-comparacionParidad("")
-
