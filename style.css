@@ -29,7 +29,7 @@ body {
 
 h1 {
     font-family: sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 600;
 }
 
@@ -39,7 +39,7 @@ ul {
     flex-direction: column;
     gap: 16px;
     justify-content: center;
-    text-align: left;
+    text-align: start;
     max-width: 900px;
     flex-wrap: wrap;
     padding: 10px;
