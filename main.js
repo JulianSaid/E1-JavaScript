@@ -46,6 +46,14 @@ function imprimirNumeros(number) {
 }
 
 //EJERCICIO 5
+function imprimirPalabra(number, string) {
+    for (let i = 1; i <= number; i++) {
+        console.log(i + " string");
+    }
+}
+
+
+//EJERCICIO 6
 
 let redes = ["Instagram", "Twitter", "Facebook", "Tiktok"];
 let deportes = ["Futbol", "Volley", "Hockey"];
@@ -56,7 +64,7 @@ function imprimirArray(array) {
 }
 
 
-//EJERCICIO 6
+//EJERCICIO 7
 let arrayNumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 function cincoAfuera(array) {
@@ -67,7 +75,7 @@ function cincoAfuera(array) {
     }
 }
 
-//EJERCICIO 7
+//EJERCICIO 8
 //Usar el array arrayNumeros de arriba
 
 function multiplicarArray(array, number) {
